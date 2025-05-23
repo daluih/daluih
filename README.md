@@ -1,7 +1,7 @@
 <h1 align="center">Olá 🤗, Me chamo Dara</h1>
-<h3 align="center">Uma Analista de Qualidade apaixonada por tecnologia e com grande interesse em explorar suas áreas.áreas</h3>
+<h3 align="center">Uma Analista de Qualidade apaixonada por tecnologia e com grande interesse em explorar suas áreas.</h3>
 
-- 🔭 Atualmente trabalhao com QA [Sisprev+](https://www.agendaassessoria.com.br/page/sisprev-web)
+- 🔭 Atualmente aprofundando o conhecimento em Python e BI.
 
 - 🫱🏻‍🫲🏻 E colaboro em um projeto da UFMT [Cuiabá +Solidária](https://cmdca.ic.ufmt.br/duvidas-frequentes/)
 
