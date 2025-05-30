@@ -8,6 +8,10 @@
 
 - 📫 Você me acha através do e-mail **dara4lemos@gmail.com**
 
+- 🛠️ Dê uma olhadinha no meu futuro [Portifólio](https://daluih.github.io/portifolio-dara/)....Em construção 🙏🏻
+
+- 😏 Mas se vc não pode esperar, e quer me conhecer melhor dê uma olhada nesse aqui [Portifólio](https://meu-portifolio-profissio-evg1al2.gamma.site/) 🤗
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dara-luisa-436916179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dara-luisa-436916179" height="30" width="40" /></a>
